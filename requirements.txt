@@ -1,0 +1,33 @@
+# Web请求和解析
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+
+# 中文处理
+pypinyin>=0.49.0
+
+# 异步支持
+aiohttp>=3.9.1
+
+# 进度条
+tqdm>=4.66.1
+
+# 系统监控
+psutil>=5.9.6
+
+# YAML处理
+pyyaml>=6.0.1
+
+# 基础依赖（Python标准库，无需安装）
+# datetime
+# os
+# json
+# urllib
+# sys
+# threading
+# queue
+# logging
+# pickle
+# pathlib
+# re
+# random
